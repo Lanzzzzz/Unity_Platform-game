@@ -21,7 +21,7 @@ Credited to Brian Winn and Greg Kozma
   + Extra life animation and sound effect
   + New portal script redirecting the player to the final scene 
 * Screenshot: 
-![Screenshot_1](/TemplateData/Screenshot_1.png)
-![Screenshot_2](/TemplateData/Screenshot_2.png)
+![Screenshot_1](TemplateData/Screenshot_1.PNG)
+![Screenshot_2](TemplateData/Screenshot_1.PNG)
 
 # <center>Thank you for [playing](https://lanzzzzz.github.io/Unity_Platform-game/)!!!</center>
