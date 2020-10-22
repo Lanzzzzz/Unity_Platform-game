@@ -24,4 +24,6 @@ Credited to Brian Winn and Greg Kozma
 ![Screenshot_1](TemplateData/Screenshot_1.PNG)
 ![Screenshot_2](TemplateData/Screenshot_2.PNG)
 
+<p align="center">
 # <center>Thank you for [playing](https://lanzzzzz.github.io/Unity_Platform-game/)!!!</center>
+</p>
