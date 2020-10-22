@@ -1,8 +1,8 @@
 # Super Sparty Bros.
-Coursera Unity Game Project
-Created by ___Lanz___
-Credited to Brian Winn and Greg Kozma
-© Michigan State University
+Coursera Unity Game Project  
+Created by ___Lanz___  
+Credited to Brian Winn and Greg Kozma  
+© Michigan State University  
 [Click to play](index.html)
 
 ---
