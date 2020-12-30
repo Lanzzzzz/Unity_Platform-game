@@ -3,7 +3,7 @@ Coursera Unity Game Project
 Created by ___Lanz___  
 Credited to Brian Winn and Greg Kozma  
 © Michigan State University  
-[Click to play](https://lanzzzzz.github.io/Unity_Platform-game/)
+[Click to play](https://Zj-Lan.github.io/Unity_Platform-game/)
 
 ---
 
@@ -24,4 +24,4 @@ Credited to Brian Winn and Greg Kozma
 ![Screenshot_1](docs/TemplateData/Screenshot_1.PNG)
 ![Screenshot_2](docs/TemplateData/Screenshot_2.PNG)
 
-# Thank you for [playing](https://lanzzzzz.github.io/Unity_Platform-game/)!!!
+# Thank you for [playing](https://Zj-Lan.github.io/Unity_Platform-game/)!!!
