@@ -21,6 +21,7 @@ Credited to Brian Winn and Greg Kozma
   + Extra life animation and sound effect
   + New portal script redirecting the player to the final scene 
 * Screenshot: 
+![Gif_1](docs/TemplateData/platform.gif)
 ![Screenshot_1](docs/TemplateData/Screenshot_1.PNG)
 ![Screenshot_2](docs/TemplateData/Screenshot_2.PNG)
 
